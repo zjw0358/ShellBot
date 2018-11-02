@@ -37,7 +37,7 @@ else:
     print("Usage: server.py <client port> <bridge port> <password>")
     port = 9999 # Clients connect to this port
     bridgeport = 9090 # Controllers connect to this port
-    password = '1234' # Password needed by controllers
+    password = '9tian9di' # Password needed by controllers
     print("Using default values - client port:{}, bridge:{}, password:{}"
           .format(port, bridgeport, password))
 
@@ -49,7 +49,7 @@ intro = r"""
 |/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
 
 Coded by: Sayak Brahmachari
-GitHub: https://github.com/sayak-brm
+GitHub: https://github.com/zjw0358
 Website: http://mctrl.ml
 """
 

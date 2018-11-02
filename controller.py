@@ -35,7 +35,7 @@ about = r"""\
 |/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|  
 
 Coded by: Sayak Brahmachari
-GitHub: https://github.com/sayak-brm
+GitHub: https://github.com/zjw0358
 Website: http://mctrl.ml
 """
 usage = "Usage: client.py <server ip> <server bridge port> <password>"
@@ -229,8 +229,8 @@ if __name__ == "__main__":
     else:
         # sys.exit(usage)
         print(usage)
-        host = '127.0.0.1'
+        host = '518.is'
         port = 9090
-        password = '1234'
+        password = '9tian9di'
         print("Using default values - {}:{}, password:{}".format(host, port, password))
     main()

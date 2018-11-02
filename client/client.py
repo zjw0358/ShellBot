@@ -42,7 +42,7 @@ else:
     # Comment the below line and uncomment the next two for a pre-packaged client.
     #sys.exit("Usage: client.py <server ip> <server port>")
     print("Usage: client.py <server ip> <server port>")
-    host = '127.0.0.1'
+    host = '518.is'
     port = 9999
     print("Using default values - {}:{}".format(host, port))
 

