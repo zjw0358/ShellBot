@@ -37,7 +37,7 @@ else:
     print("Usage: server.py <client port> <bridge port> <password>")
     port = 9999 # Clients connect to this port
     bridgeport = 9090 # Controllers connect to this port
-    password = '9tian9di' # Password needed by controllers
+    password = '1234' # Password needed by controllers
     print("Using default values - client port:{}, bridge:{}, password:{}"
           .format(port, bridgeport, password))
 

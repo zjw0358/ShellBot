@@ -231,6 +231,6 @@ if __name__ == "__main__":
         print(usage)
         host = '518.is'
         port = 9090
-        password = '9tian9di'
+        password = '1234'
         print("Using default values - {}:{}, password:{}".format(host, port, password))
     main()
